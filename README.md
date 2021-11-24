@@ -9,4 +9,7 @@ SPARNN code:
 (partly rewrite from https://github.com/RPcb/ARNN)
 
 
-data generate: contains the program to solve the Kuramoto-Sivashinsky model(refer to https://github.com/E-Renshaw/kuramoto-sivashinsky), the Brusselator model and Swift-Hohenberg model(refer to https://github.com/tanumoydhar/1D-Swift-Hohenberg-equation)
+data generate: contains the programs to solve the Kuramoto-Sivashinsky model(refer to https://github.com/E-Renshaw/kuramoto-sivashinsky), the Brusselator model and Swift-Hohenberg model(refer to https://github.com/tanumoydhar/1D-Swift-Hohenberg-equation)
+
+
+comparison methods: contains the programs of CNN, LSTM, BiLSTM, Random Forest, CatBoost, LightBoost, XGBoost.
