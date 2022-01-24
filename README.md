@@ -1,7 +1,7 @@
 # SPARNN
 Spatial parallel autoreservior neural networks
 
-For 
+For "Predicting sea surface temperature based on a parallel autoreservoir computing approach with short-term measured data", the code is in the SPARNN_for_SST.
  
 For "Short-term data based spatial parallel autoreservoir computing on spatiotemporally chaotic system prediction"
 SPARNN code:
